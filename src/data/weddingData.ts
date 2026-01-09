@@ -33,7 +33,7 @@ export const weddingData: WeddingData = {
       "Kobangdikal, Jl. Moro Krembangan, Morokrembangan, Kec. Krembangan, Surabaya, Jawa Timur 60178",
     mapsLink: "https://maps.app.goo.gl/Xai4TzMoWs8GECf16",
   },
-  weddingDate: new Date("2026-03-28T08:00:00"),
+  weddingDate: new Date("2026-03-28T19:00:00"),
   story: {
     firstMeeting:
       "It was in 2024, at the most unexpected moment, when our best friend introduced us. As we got to know each other better, everything just felt right, and we decided to commit to each other.",
